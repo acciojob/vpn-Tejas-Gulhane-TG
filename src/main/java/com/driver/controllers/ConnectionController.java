@@ -1,6 +1,7 @@
 package com.driver.controllers;
 
-import com.driver.services.impl.ConnectionServiceImpl;
+import com.driver.model.User;
+import com.driver.services.Impl.ConnectionServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
